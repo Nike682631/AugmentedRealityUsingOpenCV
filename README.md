@@ -10,6 +10,13 @@ are finding the distance between the camera and the target image, and based on o
 This method provides us the good matches to determine if the target was detected or not. Then we are creating the right mask and augment our image
 and then video.
 
+# Application of AR is huge: #
+
+1) Medical Facilities : From operating MRI equipment to performing complex surgeries.
+2) Retail : World famous motorcycle brand Harley Davidson is one great instance of a brand making the most of this trend, by developing an an AR app that shoppers can use in-store.
+3) Design and Modelling : From interior design to architecture and construction, AR is helping professionals visualize their final products during the creative process.
+and many more...
+
 # Inspired from: #
 
 1) Abhishek Singh's Super Mario Bro's Recreated as Life size Augmented Reality Game : https://www.youtube.com/watch?v=QN95nNDtxjo
