@@ -10,17 +10,13 @@ It uses the target image given by the end-user and superimposes a video on it. H
 Application of AR is huge:
 
 Medical Facilities : From operating MRI equipment to performing complex surgeries.
-
 Retail : World famous motorcycle brand Harley Davidson is one great instance of a brand making the most of this trend, by developing an an AR app that shoppers can use in-store.
-
 Design and Modelling : From interior design to architecture and construction, AR is helping professionals visualize their final products during the creative process. and many more...
 
 Inspired from:
 
 Abhishek Singh's Super Mario Bro's Recreated as Life size Augmented Reality Game : https://www.youtube.com/watch?v=QN95nNDtxjo
-
 Microsift's Hololens : https://www.youtube.com/watch?v=6lxGU66w0NM
-
 Google's AR Core : https://www.youtube.com/watch?v=VOVhCTb-1io
 
 Thanks to Murtaza Hassan for his unbelievable efforts.
@@ -28,6 +24,5 @@ Thanks to Murtaza Hassan for his unbelievable efforts.
 Connect with me:
 
 LinkedIn : https://github.com/ParijatDhar97
-
 Portfolio : https://parijatdhar97.github.io/iamparijatdhar/
 
