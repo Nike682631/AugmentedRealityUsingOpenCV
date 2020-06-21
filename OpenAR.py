@@ -43,6 +43,9 @@ menu.add_cascade(label="About",menu=subm2)
 subm2.add_command(label="Augmented Reality Cam",command=anotherWin)
 subm2.add_command(label="Contributors",command=Contri)
 
+subm3 = Menu(menu)
+menu.add_cascade(label='Press q to exit!')
+
 
 ############# For Exit #############
 def exitt():
@@ -205,9 +208,12 @@ def webdet():
       # # cv2.imshow('ImageTarget', imgTarget)
       # cv2.imshow('WebCam', imgWebcam)
       # cv2.imshow('First Frame of video', myVid)
-      cv2.imshow('All Favourable Outcomes', imgStack)
-      cv2.waitKey(1)
-      frameCounter+=1
+       if cv2.waitKey(1) & 0xFF ==ord('q'):
+         break
+         cv2.destroyAllWindows()
+      else:
+         cv2.imshow('All Favourable Outcomes', imgStack)
+         frameCounter+=1
 
    
 but1=Button(frame,padx=5,pady=5,width=39,bg='white',fg='black',relief=GROOVE,command=web,text='Open Cam',font=('helvetica 15 bold'))
