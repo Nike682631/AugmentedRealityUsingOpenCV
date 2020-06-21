@@ -9,7 +9,9 @@ It uses the target image given by the end-user and superimposes a video on it. H
 
 Application of AR is huge:
 Medical Facilities : From operating MRI equipment to performing complex surgeries.
+
 Retail : World famous motorcycle brand Harley Davidson is one great instance of a brand making the most of this trend, by developing an an AR app that shoppers can use in-store.
+
 Design and Modelling : From interior design to architecture and construction, AR is helping professionals visualize their final products during the creative process. and many more...
 
 Inspired from:
